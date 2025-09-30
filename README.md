@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on a [HTCondor User Interface](https://github.com/tomreece4/htcondor-interface)
+- 🔭 I’m currently working on Biomedical Data Analytics and Computer Vision projects
 - 🌱 Currently exploring machine learning workflows using Python, NumPy, and TensorFlow, focusing on learning different machine learning models.
 - 📫 How to reach me: thomas.reece4@outlook.com
 
