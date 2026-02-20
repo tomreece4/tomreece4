@@ -1,4 +1,4 @@
-- I’m currently working on Biomedical Data Analytics and Computer Vision projects
+- I’m currently working on applying differential privacy to Large Language Models.
 - Currently exploring machine learning workflows using Python, NumPy, and TensorFlow, focusing on learning different machine learning models.
 - How to reach me: thomas.reece4@outlook.com
 
